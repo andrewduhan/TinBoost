@@ -5,7 +5,7 @@ A simple holder for an OKR-T/6 bucking variable voltage converter, designed to f
 
 ![Board layout](http://dl.dropbox.com/u/126001/circuits/tinboost_v1.png)
 
-Output adjustable from ~3.5V - 6V as shown.   You can go as low as 1V output if you change the values of the 220 resistors.
+Output adjustable from ~3.5V - 6V as is.   You can go as low as 1V output if you change the values of the 220 resistors.
 
 The barrel jack is connected directly to battery + and -.  It is intended to allow easy in-circuit charging using an external Lithium-Ion charger appropriate for the battery (7.2V in the case of dual Li-Ion).  It could also be used as an unregulated output direct from the battery.  
 
@@ -13,7 +13,7 @@ The barrel jack is connected directly to battery + and -.  It is intended to all
 
 
 ## BOM:
-* OKR-T/6 (mantually spread the pins to fit the board holes)
+* OKR-T/6 (manually spread the pins to fit the board holes)
 * C&K 1101 6A Switch (digikey # CKN5001)
 * E-Switch illuminated right-angle tactile switch (digikey # EG4685-5)
 * Bourns 3310Y 1k Pot (digikey # 3310Y-001-102L)
